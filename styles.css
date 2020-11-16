@@ -1,0 +1,19 @@
+body {
+    background-color: white;
+    color: black;
+}
+.list-item {
+    color: purple;
+}
+.heading {
+    color: red;
+}
+#color_bg {
+    background-color: purple;
+    color: black;
+}
+#another-item {
+    background-color: rgb(14, 161, 14);
+    opacity: 0.6;
+    color: white;
+}
